@@ -6,3 +6,12 @@
 3. Data Modeliing
 4. Data Analysis
 5. Uncovering Insights
+
+
+### Used Python libraries:
+1. pandas
+2. numpy
+3. seaborn
+4. matplotlib.pyplot 
+
+
